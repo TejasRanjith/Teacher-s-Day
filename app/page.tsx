@@ -68,7 +68,7 @@ export default function Home() {
 
   const cardProps: CardTemplateProps = {
     message: designation,
-    image: "/template.png",
+    image: "public/template.png",
     imageHint: 'Festive background',
     teacherName,
     teacherImage,
